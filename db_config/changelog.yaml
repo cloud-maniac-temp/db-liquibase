@@ -19,7 +19,6 @@ databaseChangeLog:
              name:    Name
              type:    STRING(255)
           
- - changeSet:
     id: create-actors-table
     author: spanner-examples
     changes:
